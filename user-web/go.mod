@@ -7,5 +7,4 @@ require (
 	github.com/micro/go-log v0.1.0
 	github.com/micro/go-micro v1.3.0
 	github.com/micro/go-web v1.0.0
-	github.com/kevenp/microbook/user-srv v0.0.0
 )
